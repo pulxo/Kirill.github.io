@@ -1,1 +1,7 @@
 header{background-color: indigo;}
+main{background-color: cadetblue;}
+.Red{background-color: red;}
+.Black{background-color: black;}
+.header_wrape{display: flex;flex-wrap: wrap;align-items: flex-end;justify-content: space-between;}
+.header_nav{display: flex;flex-wrap:wrap ;}
+.header_logo{flex-basis: 20%;}
