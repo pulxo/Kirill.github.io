@@ -1,7 +1,11 @@
-header{background-color: indigo;}
+body{background-color: hotpink;}
+header{background-color:gray;}
 main{background-color: cadetblue;}
-.Red{background-color: red;}
-.Black{background-color: black;}
-.header_wrape{display: flex;flex-wrap: wrap;align-items: flex-end;justify-content: space-between;}
-.header_nav{display: flex;flex-wrap:wrap ;}
-.header_logo{flex-basis: 20%;}
+.Red{background-color:steelblue;}
+.Black{background-color: goldenrod;}
+.header_wrapper{display: flex;flex-wrap: wrap;align-items: flex-end;justify-content: space-between;}
+.header_menu{display: flex;flex-wrap:wrap ;}
+.header_logo{flex-basis 10%;color: lawngreen;}
+.header_item{margin-right: 30px;border-width: 5px; text-decoration:none;}
+.htmlcards{display: grid;grid-template-columns: repeat(auto-fill,20%);}
+.cards{grid-column: span 1;margin-bottom: 100px;}
